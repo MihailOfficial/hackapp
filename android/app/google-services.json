@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "67225752076",
+    "firebase_url": "https://hackathlon-eb4b5.firebaseio.com",
+    "project_id": "hackathlon-eb4b5",
+    "storage_bucket": "hackathlon-eb4b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67225752076:android:2a7df1685426f191d59429",
+        "android_client_info": {
+          "package_name": "com.example.hackapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67225752076-g3vjthfu7s7h8fe3pa8c5030r74pe247.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr_OLn6_Ve6OY-e15hCQ9QLrOIfwJvPxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67225752076-g3vjthfu7s7h8fe3pa8c5030r74pe247.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
